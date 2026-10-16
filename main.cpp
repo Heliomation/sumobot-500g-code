@@ -4,6 +4,9 @@
 
 //code for 500g with 7 sensors.
 //warning Don't max the speed, your gears will die
+//you might need to setup cytron board first to upload code, we use this website to install needed libraries and drivers:
+//https://www.cytron.io/tutorial/get-started-motion-2350-pro-arduinoide-setting-up
+//www.cytron.io/tutorial/get-started-motion-2350-pro-circuitpython-setting-up-robo-pico
 
 // ==================== PIN DEFINITIONS ====================
 const int BTN_MANUAL_PIN = 20;
